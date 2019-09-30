@@ -12,7 +12,10 @@ Questions de cours:
 
 ## Exercice 2 : Configuration + Hello World
 
-Pour commencer, il faut telecharger le logiciel EvoThings sur votre pc et l'application CGTek Viewer sur votre télephone.
+Pour commencer, il faut telecharger le logiciel EvoThings sur votre pc ainsi que l'application CGTek Viewer pour iPhone ou 
+Evothings Viewer pour Android.
+
+http://evothings.com/download
 
 L'application Evothings va nous permettre de convertir notre code HTML CSS Javascript en Android.
 
@@ -21,7 +24,7 @@ https://evothings.com/doc/tutorials/evothings-studio-getting-started.html
 
 Vous pouvez telecharger le dossier Hell_World et le placer dans C:\Users\VotreNom\EvothingsStudio\Myapps\
 
-Lancer maintenant votre votre projet HelloWorld sur le logiciel dans la partie MyApps.
+Lancer maintenant votre projet HelloWorld sur le logiciel EvoThings dans la partie MyApps.
 
 ## Exercice 3 :
 
